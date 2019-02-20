@@ -1,0 +1,1 @@
+String.format（“％04d”，new Random（）。nextInt（9999））; 4位随机数
